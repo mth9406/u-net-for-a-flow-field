@@ -1,5 +1,5 @@
 # Fluid U net 
-A PyTorch implementation of the MCDAE
+A PyTorch implementation of the u-net application in a flow field.
 
 Data in this repo is fluid field around a cylinder. 
 The copyright of the data is at https://fpe.postech.ac.kr/postech/.
@@ -46,5 +46,5 @@ optional arguments:
   --model_file MODEL_FILE
                         model file
 ```
-
-Please run the "example_usage.ipynb" if you find anything hard to understannd. 
+Breif description of the model is in the description.pptx file.
+Please run the "example_usage.ipynb" if you find anything hard to understand. 
