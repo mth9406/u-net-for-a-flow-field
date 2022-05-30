@@ -46,5 +46,9 @@ optional arguments:
   --model_file MODEL_FILE
                         model file
 ```
-Breif description of the model is in the description.pptx file.
-Please run the "example_usage.ipynb" if you find anything hard to understand. 
+# Model structure
+![image](https://user-images.githubusercontent.com/51608554/170904498-f221a6ea-ae35-4cb5-9b09-8ac90025d0d7.png)
+
+
+Breif description of the model is in the description.pptx file.        
+Please run the "example_usage.ipynb" if you find anything hard to understand.   
